@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  FlickrPhotos
+
+  Created by Manikanta Sanisetty on 12/06/2018.
+  Copyright © 2018 Manikanta Sanisetty. All rights reserved.
+*/
+
+"photos" = "Photos";
+"ok" = "OK";
+"error" = "Error";
+"genericError" = "Something went wrong";
